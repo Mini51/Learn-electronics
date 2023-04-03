@@ -8,9 +8,6 @@ Source: https://www.khanacademy.org
 
 A resitor is a device that resists the flow of electrons. The resistance of a resistor is measured in ohms. The resistance of a resistor is constant. The resistance of a resistor is measured by the voltage across the resistor and the current through the resistor. The equation for resistance is: `V = I * R` (Ohm's law)
 
-[Learn More](/Circuit%20elements//specific/resistors.md)
-
-
 ##  [Capacitors](/Circuit%20elements/specific/Capacitors.md)
 ![Capacitors](../assets/CapacitorSym.svg)
 
