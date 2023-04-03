@@ -17,4 +17,4 @@ In this github repository, you will find a collection of markdown files that can
   - [Voltage](/Getting%20started/Voltage.md)
 - [Circuit Elements](/Circuit%20elements/Introduction.md)
   - [Basic Elements](/Circuit%20elements/Basic-elements.md)
-  - [Power Sources](/Circuit%20elements/Sources.md)
+  - [Voltage and Sources](/Circuit%20elements/Sources.md)
