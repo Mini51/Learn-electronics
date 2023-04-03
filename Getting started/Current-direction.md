@@ -10,4 +10,5 @@
 
 Electron current direction goes from the negative terminal to the positive terminal. This is the actual direction of the current. The reason why we do not use this is because it is harder to understand and do math with. 
 
-[Next Topic](/Getting%20started/voltage.md)
+# Next up
+[Voltage](/Getting%20started/Voltage.md)

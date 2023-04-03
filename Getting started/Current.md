@@ -11,3 +11,5 @@ Since copper has one extra electron, it is negatively charged. When the copper i
 ## How is current measured
 Current is measured in Amperes (A). The symbol for amperes is A. Amperes is the amount of charge that flows through a circuit in one second. The equation for current is I. 
 
+# Next up
+[Current direction](/Getting%20started/Current-direction.md)
