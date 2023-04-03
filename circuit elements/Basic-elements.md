@@ -38,4 +38,5 @@ A inductor is a device that stores energy in the form of magnetic field. The ind
 ### Inductance
 `V = L * dI/dt`
 
-[Next Topic](/circuit%20elements/Sources.md)
+# Next up
+[Sources](/circuit%20elements/Sources.md)
