@@ -11,3 +11,6 @@ To find the resistance of a resistor is by checking the color bands on the resis
 <img src="../../assets/ResistorColorCode.jpg"  max-width="300px" height="500px">
 
 Source: https://www.atlearner.com/2019/07/Resistor-color-code.html
+
+# Go back
+[Go back to Basic Elements](/circuit%20elements/Basic-Elements.md)
