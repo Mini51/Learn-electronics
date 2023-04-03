@@ -1,4 +1,4 @@
-# Ideal Sources
+# Sources
 
 ## Ideal Voltage Source
 
