@@ -10,6 +10,6 @@ In this github repository, you will find a collection of markdown files that can
  
 
 ## Table of Contents
-start here: [eletrical-current.md](/Getting%20started/electric-current.md)
+start here: [eletrical-current.md](/Getting%20started/Introduction.md)
 
  
