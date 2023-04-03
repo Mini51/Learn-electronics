@@ -10,6 +10,11 @@ In this github repository, you will find a collection of markdown files that can
  
 
 ## Table of Contents
-start here: [eletrical-current.md](/Getting%20started/Introduction.md)
 
- 
+- [Getting Started](/Getting%20started/Introduction.md)
+  - [Current](/Getting%20started/Current.md)
+  - [Current Direction](/Getting%20started/Current-direction.md)
+  - [Voltage](/Getting%20started/Voltage.md)
+- [Circuit Elements](/Circuit%20elements/Introduction.md)
+  - [Basic Elements](/Circuit%20elements/Basic-elements.md)
+  - [Power Sources](/Circuit%20elements/Sources.md)
