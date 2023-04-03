@@ -8,10 +8,10 @@ Circuit elements are the basic building blocks of a circuit. They are the compon
 
 ## What are the different types of circuit elements?
 There are many different types of circuit elements, but we will be learning about the basic ones. including:
-- [Resistors](/circuit%20elements/specific/Resistors.md)
-- [Capacitors](/circuit%20elements/specific/Capacitors.md)
-- [Inductors](/circuit%20elements/specific/Inductors.md)
+- [Resistors](/Circuit%20elements/specific/Resistors.md)
+- [Capacitors](/Circuit%20elements/specific/Capacitors.md)
+- [Inductors](/Circuit%20elements/specific/Inductors.md)
 
 # Get Started
-First Notes: [Basic Elements](/circuit%20elements/Basic-elements.md)
+First Notes: [Basic Elements](/Circuit%20elements/Basic-elements.md)
   
