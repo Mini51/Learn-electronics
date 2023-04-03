@@ -16,13 +16,8 @@ Polarity for a battery is the longer line is positive and the shorter line is ne
 
 Source: https://www.khanacademy.org
 
-
 The polarity for an ideal current source is the the direction of the arrow is the direction of the current.
 
 ##  Plot on a IV graph
 To plot this both the voltage and the current on a IV graph you will put the voltage on the x-axis and the current on the y-axis. the formula for the Voltage is ` V = V` and the formula for the current is `I = I`.
-
-
-
-
 

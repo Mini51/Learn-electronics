@@ -1,7 +1,7 @@
 # Common circuit elements 
 
 
-## Resistors
+## [Resistors](/circuit%20elements/specific/Resistors.md)
 ![Resistors](../assets/ResistorsSym.svg)
 
 Source: https://www.khanacademy.org
@@ -11,14 +11,14 @@ A resitor is a device that resists the flow of electrons. The resistance of a re
 [Learn More](/circuit%20elements//specific/resistors.md)
 
 
-## Capacitors
+##  [Capacitors](/circuit%20elements/specific/Capacitors.md)
 ![Capacitors](../assets/CapacitorSym.svg)
 
 Source: https://www.khanacademy.org
 
 A capacitor is a device that stores energy in the form of electric charge. The capacitance of a capacitor is measured in farads. The capacitance of a capacitor is constant. The capacitance of a capacitor is measured by the voltage across the capacitor and the current through the capacitor. The equation for capacitance is: `I = C * dV/dt`
 
-## Inductors
+## [Inductors](/circuit%20elements/specific/Inductors.md)
 ![Inductors](../assets/InductorSym.svg)
 
 Source: https://www.khanacademy.org
@@ -38,4 +38,4 @@ A inductor is a device that stores energy in the form of magnetic field. The ind
 ### Inductance
 `V = L * dI/dt`
 
-[Next Topic](/circuit%20elements/ideal-sources.md)
+[Next Topic](/circuit%20elements/Sources.md)

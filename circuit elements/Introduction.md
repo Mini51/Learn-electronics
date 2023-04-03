@@ -11,4 +11,7 @@ There are many different types of circuit elements, but we will be learning abou
 - [Resistors](/circuit%20elements/specific/Resistors.md)
 - [Capacitors](/circuit%20elements/specific/Capacitors.md)
 - [Inductors](/circuit%20elements/specific/Inductors.md)
+
+# Get Started
+First Notes: [Basic Elements](/circuit%20elements/Basic-elements.md)
   
