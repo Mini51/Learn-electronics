@@ -9,12 +9,13 @@ In this repo we will be learning the basics of electrical engineering and electr
 "Electronics is the science of controlling electrical energy electrically, in contrast to electrical engineering, which uses electricity to perform energy conversion or work."
 
 
-# What will we be learning? 
-We will be learning about the following topics:
-- [Circuit elements](/circuit%20elements/Introduction.md)  / Done
-- ~~[Circuit analysis](/circuit%20analysis/Introduction.md)~~  / Not started yet
-- ~~[Electronics](/electronics/Introduction.md)~~  / Not started yet
+
+
+## Table of contents 
+- [Current](Current.md)
+- [current-Direction](Current-direction.md)
+- [Voltage](Voltage.md)
 
 
 # Get started 
-Go to the first note : [Current](/Getting%20started/Current.md)
+Go to the first note : [Current](Current.md)

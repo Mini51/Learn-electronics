@@ -10,4 +10,4 @@ A capacitor will store energy and then release it. It is like a battery but it i
 
 
 # Go back
-[Go back to Basic Elements](/Circuit%20elements/Basic-Elements.md)
+[Go back to Basic Elements](../Basic-Elements.md)
