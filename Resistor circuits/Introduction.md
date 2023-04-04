@@ -9,7 +9,7 @@ Resistor circuits are circuits that use resistors mainly.
 ## What are the different types of resistor circuits?
 There are many different types of resistor circuits, but we will be learning about the basic ones. including:
 - [Series Resistors](Series-resistors.md) / Done
-- [Parallel Resistors](Parallel-resistors.md) / Not Done
+- ~~[Parallel Resistors](Parallel-resistors.md)~~ / Not Done
 
 
 ## Table of contents 
