@@ -22,3 +22,9 @@ In this github repository, you will find a collection of markdown files that can
     - [Inductors](/Circuit%20elements/specific/Inductors.md)
   - [Voltage and Sources](/Circuit%20elements/Sources.md)
   - [terminology](Circuit%20elements/Terminology.md)
+-  [Resistor Circuits](/Resistor%20circuits/Introduction.md)
+   -  [Series Resistors](/Resistor%20circuits/Series-resistors.md)
+   - ~~[Parallel Resistors](/Resistor%20circuits/Parallel-resistors.md)~~ / Not Done
+   - ~~[Simplify Resistor Circuits](/Resistor%20circuits/Simplified-resistors.md)~~ / Not Done
+   - ~~[Voltage Divider](/Resistor%20circuits/Voltage-divider.md)~~  / Not Done
+  
