@@ -1,7 +1,7 @@
 # Series Resistors 
 
-![Series Resistors](../assets/series-resistor.png)
-
+<img src="../assets/series-resistor.png" width="300px">
+<br >
 A Series resistor connection is when resistors are connected from head to tail. They all share the same current, but the voltage is different. 
 
 
@@ -33,6 +33,9 @@ Example 1: Calculate the total resistance, the voltage after each resistor and t
 
 Resistors: R1 = 100Ω, R2 = 50Ω, R3 = 150Ω 
 Battery: 1.5V 
+
+<img src="../assets/series-resistor-quiz.png" width="300px">
+
 
 <details closed>
 <summary>Answer: Total Resistance</summary>
@@ -67,7 +70,7 @@ After R3: .75V
 
 # Next up
 
-[Parallel Resistors](../Parallel-resistors.md)
+[Parallel Resistors](Parallel-resistors.md)
 
 
 
