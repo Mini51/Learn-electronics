@@ -23,17 +23,29 @@ Source: [khanacademy](https://www.khanacademy.org)
 A inductor is a device that stores energy in the form of magnetic field. The inductance of a inductor is measured in henrys. The inductance of a inductor is constant. The inductance of a inductor is measured by the voltage across the inductor and the current through the inductor.  The equation for inductance is: `V = L * dI/dt`
 
 
-# Important equations
+# Try it yourself 
+
+We know the voltage and current of a circuit. We want to know the resistance of the circuit. 
+
+1.5 v and 0.005A 
+
+<details closed>
+<summary>Answer: what is the resistance</summary>
+300Ω
+</details>
+
+<br>
 
 
-### Ohm's law
-`V = I * R`
+# Take aways
 
-### Capacitance
-`I = C * dV/dt`
+Ohm's Law: `V = I * R`
 
-### Inductance
-`V = L * dI/dt`
+
+Capacitance equation: `I = C * dV/dt`
+
+Inductance equation: `V = L * dI/dt`
+
 
 # Next up
 [Voltage And Current Sources](Sources.md)
