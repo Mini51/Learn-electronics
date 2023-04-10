@@ -10,4 +10,4 @@ An inductor is a passive electronic component which is capable of storing electr
 To find the inductance of a inductor is by using a multimeter. You can see the chart below for how to read the inductance of a inductor.
 
 # Go back
-[Go back to Basic Elements](../Basic-Elements.md)
+[Go back to Basic Elements](../Basic-elements.md)
