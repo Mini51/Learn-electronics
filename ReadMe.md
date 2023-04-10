@@ -9,7 +9,7 @@ When working with electricity be very careful, I am not responsible for any dama
 In this github repository, you will find a collection of markdown files that can be used to learn electrical engineering and how to make circuits. We will be starting from the very basics and working our way up to more advanced topics. 
  
 
-## Table of Contents
+## Table Of Contents
 
 - [Getting Started](/Getting%20started/Introduction.md)
   - [Current](/Getting%20started/Current.md)
@@ -24,7 +24,7 @@ In this github repository, you will find a collection of markdown files that can
   - [terminology](Circuit%20elements/Terminology.md)
 -  [Resistor Circuits](/Resistor%20circuits/Introduction.md)
    -  [Series Resistors](/Resistor%20circuits/Series-resistors.md)
-   - ~~[Parallel Resistors](/Resistor%20circuits/Parallel-resistors.md)~~ / Not Done
-   - ~~[Simplify Resistor Circuits](/Resistor%20circuits/Simplified-resistors.md)~~ / Not Done
+   - [Parallel Resistors](/Resistor%20circuits/Parallel-resistors.md) 
+   - [Simplify Resistor Circuits](/Resistor%20circuits/Simplified-resistors.md) 
    - ~~[Voltage Divider](/Resistor%20circuits/Voltage-divider.md)~~  / Not Done
   
