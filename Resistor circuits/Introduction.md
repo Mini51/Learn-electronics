@@ -17,7 +17,7 @@ There are many different types of resistor circuits, but we will be learning abo
 - [Series Resistors](Series-resistors.md)  
 - [Parallel Resistors](Parallel-resistors.md)
 - [Simplify Resistor Circuits](Simplified-resistors.md)  
-- ~~[Voltage Divider](Voltage-divider.md)~~  / Not Done
+- [Voltage Divider](Voltage-divider.md)
 
 # Get Started
 First Notes: [Series Resistors](Series-resistors.md)

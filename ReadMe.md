@@ -26,5 +26,5 @@ In this github repository, you will find a collection of markdown files that can
    -  [Series Resistors](/Resistor%20circuits/Series-resistors.md)
    - [Parallel Resistors](/Resistor%20circuits/Parallel-resistors.md) 
    - [Simplify Resistor Circuits](/Resistor%20circuits/Simplify-resistor.md) 
-   - ~~[Voltage Divider](/Resistor%20circuits/Voltage-divider.md)~~  / Not Done
+   - [Voltage Divider](/Resistor%20circuits/Voltage-divider.md) 
   
