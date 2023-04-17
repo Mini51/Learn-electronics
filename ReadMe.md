@@ -31,5 +31,3 @@ In this github repository, you will find a collection of markdown files that can
   - [Kirchhoff's Laws](/DC%20circuit%20analysis/Kirchhoff-law.md)
   - [Node Voltage Analysis](/DC%20circuit%20analysis/Node-voltage-analysis.md)
   - [Mesh Current Analysis](/DC%20circuit%20analysis/Mesh-current-analysis.md)
-  - [Loop Current Analysis](/DC%20circuit%20analysis/Loop-current-analysis.md)
-  - [Solve Circuits](/DC%20circuit%20analysis/Solve-circuits.md)

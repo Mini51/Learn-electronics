@@ -8,9 +8,6 @@ In this section, we will be learning about DC circuit analysis. We will be learn
 - [Kirchhoff's Laws](Kirchhoff-law.md)
 - [Node Voltage Analysis](Node-voltage-analysis.md)
 - [Mesh Current Analysis](Mesh-current-analysis.md)
-- [Loop Current Analysis](Loop-current-analysis.md)
-- [Solve Circuits](Solve-circuits.md)
-  
 
 # Get Started
 [Kirchhoff's Laws](Kirchhoff-law.md) 
